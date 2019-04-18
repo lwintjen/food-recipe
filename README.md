@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+The project has been deployed on Netlify : https://zen-wing-322403.netlify.com/
 ## Available Scripts
 
 In the project directory, you can run:
