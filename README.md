@@ -1,6 +1,6 @@
-# Food recipes founder
+# Food recipes finder
 
-This is a food recipes founder based on an ingredient query. It is built in ReactJS and using edamam API.
+This is a food recipes finder based on an ingredient query. It is built in ReactJS and using edamam API.
 
 ## How to run it ?
 `npm start` <br />
