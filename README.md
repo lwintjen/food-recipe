@@ -1,4 +1,4 @@
-# Tic Tac Toe
+# Food recipes founder
 
 This is a food recipes founder based on an ingredient query. It is built in ReactJS and using edamam API.
 
